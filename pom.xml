@@ -25,7 +25,7 @@
         <dependency>
             <groupId>com.massivecraft.massivecore</groupId>
             <artifactId>MassiveCoreXlibGuava</artifactId>
-            <version>3.3.0</version>
+            <version>3.3.2</version>
         </dependency>
         <!-- GSON -->
         <dependency>
